@@ -44,7 +44,7 @@ def using_insert(time_now_array, time_later)
  (double).insert
  end
  
-def using_delete(lax_array, jfk_string)
+def using_delete(lax_array)
      
   lax_array.delete("jfk_string")
      end
