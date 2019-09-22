@@ -41,7 +41,19 @@ def using_insert(time_now_array, time_later)
  
  def using_uniq(double)
    
- (double).insert  
+ (double).insert
  end
  
-   
+def using_delete(lax_array, jfk_string)
+     
+  lax_array.delete("jfk_string")
+     end
+     
+def using_delete_at(famous_centers)
+  
+  famous_centers.delete(2, john)
+  
+end
+     
+     
+     
