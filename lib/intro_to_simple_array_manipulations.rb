@@ -51,7 +51,7 @@ def using_delete(lax_array, jfk_string)
      
 def using_delete_at(famous_centers, shaq)
   
-  shaq.delete_at(2)
+  famous_centers.delete_at(2)
   
 end
      
