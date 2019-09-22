@@ -49,9 +49,9 @@ def using_delete(lax_array, jfk_string)
   lax_array.delete("jfk_string")
      end
      
-def using_delete_at
+def using_delete_at(famous_centers, "Shaq")
   
-  famous_centers.delete_at(2)
+  "shaq".delete_at(2)
   
 end
      
