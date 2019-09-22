@@ -55,6 +55,8 @@ def using_delete_at(famous_centers, shaq)
   
 end
   
+def using_flatten(lakers_array, kninck)
+  
+  lakers_array.flatten
      
-     
-     
+end     
