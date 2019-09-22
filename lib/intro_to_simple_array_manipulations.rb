@@ -44,9 +44,9 @@ def using_insert(time_now_array, time_later)
  (double).insert
  end
  
-def using_delete(lax_array, index)
+def using_delete(lax_array, string)
      
-  lax_array.delete(1)
+  lax_array.delete(string)
      end
      
 def using_delete_at(famous_centers, shaq)
