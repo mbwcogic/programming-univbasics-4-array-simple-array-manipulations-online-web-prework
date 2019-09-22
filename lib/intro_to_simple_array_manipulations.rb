@@ -41,7 +41,7 @@ def using_insert(time_now_array, time_later)
  
  def using_uniq(double)
    
- (double).insert
+ (double).uniq
  end
  
 def using_delete(lax_array, string)
